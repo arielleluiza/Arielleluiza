@@ -15,8 +15,8 @@ Olá, Sou a Arielle Luiza
   
   ##
   
-  <div>
-<a href="https://photos.app.goo.gl/SqwYQQCFwCcrebKV9/" target"_blank"></a>
+  <div style="display: inline_block"><br>
+  <img alingd "right" alt="Ary-" src="https://photos.app.goo.gl/SqwYQQCFwCcrebKV9">
 
 
  
