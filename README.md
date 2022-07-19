@@ -16,7 +16,7 @@ Olá, Sou a Arielle Luiza
   ##
   
   <div>
-    <img align-"right" alt=Ary- src="![download20220701200751](https://user-images.githubusercontent.com/109552295/179640466-c0e5b559-45b1-4a53-86d7-4ae49443daa4.png)/hi.gif">
+    <img align-"right" alt=Ary-src="https://picrew.me/image_maker/338224/hi.gif">
 
 
 
